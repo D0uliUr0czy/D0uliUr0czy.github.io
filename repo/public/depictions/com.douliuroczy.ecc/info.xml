@@ -1,0 +1,36 @@
+<package>
+	<id>com.douliuroczy.camphone</id>
+	<name>Elegant CC</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>The way Control Center should look</description>
+		<description><![CDATA[
+		<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>iPad</description>
+			<image>ElegantCC.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Donate</name>
+			<url>https://www.paypal.me/DouliUroczy</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+	</links>
+</package>
