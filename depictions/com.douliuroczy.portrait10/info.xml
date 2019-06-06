@@ -1,0 +1,24 @@
+<package>
+	<id>com.douliuroczy.portrait10</id>
+	<name>Potrait Mode (iOS10)</name>
+	<version>0.1b</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Portrate mode for all 64bit devices on iOS 10 tested on iPhone 6 Plus ios 10.1.1/11.1.2</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links></links>
+</package>
